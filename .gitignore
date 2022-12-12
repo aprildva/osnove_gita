@@ -1,5 +1,6 @@
 .idea/
-*2022/
+*2022*
 *.pdf
 /logs_*
-library/*.rar
+library/*.zip
+svastara/
