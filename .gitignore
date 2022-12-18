@@ -9,4 +9,5 @@ svastara/
 *.properties
 *.keys
 *.pem
-bin/
+bin/*
+
